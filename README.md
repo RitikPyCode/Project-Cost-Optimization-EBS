@@ -1,5 +1,10 @@
 # Project-Cost-Optimization-EBS
+
 AWS Cloud Project.
+
+![image](https://github.com/RitikPyCode/Project-Cost-Optimization-EBS/assets/69500530/5ab8d27c-c76e-4b81-a05d-388f05f1c35b)
+
+
 
 ## AWS Cloud Cost Optimization - Identifying Stale Resources
 
